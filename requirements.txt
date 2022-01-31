@@ -1,0 +1,10 @@
+pandas
+gunicorn
+plotly>=4.1.0
+plotly_express
+chart-studio==1.0.0
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+requests
