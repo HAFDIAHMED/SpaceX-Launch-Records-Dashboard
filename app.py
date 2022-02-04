@@ -15,7 +15,6 @@ min_payload = spacex_df['Payload Mass (kg)'].min()
 
 # Create a dash application
 app = dash.Dash(__name__)
-server = app.server
 
 # Create an app layout
 app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
@@ -94,4 +93,4 @@ def scatter(entered_site,payload):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True,port=8050)
+    app.run_server(debug=True)
