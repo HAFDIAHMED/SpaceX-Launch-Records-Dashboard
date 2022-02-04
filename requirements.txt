@@ -1,4 +1,4 @@
-
+pandas==1.4.0
 dash==2.0.0
 dash-auth==1.4.1
 dash-core-components==2.0.0
