@@ -81,7 +81,7 @@ pycurl==7.44.1
 pydotplus==2.0.2
 
 pyls-spyder==0.4.0
-pyodbc===4.0.0-unsupported
+pyodbc===4.0.1
 
 pyreadline==2.1
 
