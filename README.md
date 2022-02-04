@@ -4,3 +4,13 @@ SpaceX Launch Records Dashboard for visualizing all the  records for each launch
 
 # Deploy to heroku
  [SpaceX-Launch-Records-Dashboard](https://spacex-launch-sites.herokuapp.com/)
+ 
+ ### Screenshots
+
+  <center>
+      <img src="https://github.com/HAFDIAHMED/SpaceX-Launch-Records-Dashboard/blob/master/pie.png"/>
+  </center>
+  
+  <center>
+      <img src="https://github.com/HAFDIAHMED/SpaceX-Launch-Records-Dashboard/blob/master/playload.png"/>
+  </center>
